@@ -1,7 +1,9 @@
 # paletadecores
 Projetinho para geração de paleta de cores.
 
-"C:\Users\Angela Silva\Videos\Captures\paleta de cores\Gerador de Paleta de Cores - Google Chrome 31_08_2025 12_50_00.png"
+## 🖼️ Preview
+
+![Preview do Projeto](preview.png)
 
 # 🎨 Gerador de Paleta de Cores
 
