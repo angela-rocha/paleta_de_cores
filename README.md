@@ -1,6 +1,8 @@
 # paletadecores
 Projetinho para geração de paleta de cores.
 
+"C:\Users\Angela Silva\Videos\Captures\paleta de cores\Gerador de Paleta de Cores - Google Chrome 31_08_2025 12_50_00.png"
+
 # 🎨 Gerador de Paleta de Cores
 
 Um app simples e responsivo que **gera paletas de cores aleatórias** e permite **copiar o código HEX** com um clique.  
@@ -9,7 +11,7 @@ Feito com **HTML**, **CSS** e **JavaScript** puro — perfeito para portfólio e
 ---
 
 ## 🔗 Demo
-Acesse aqui: **https://[angela-silva].github.io/paletadecores/**
+Acesse aqui: https://angela-silva.github.io/paletadecores/ 
 
 ---
 
@@ -43,7 +45,6 @@ color-palette-generator/
 
 ## Autora
 
-![imagem Angela Silva](https://media.licdn.com/dms/image/D4D03AQGzK8Y4s4kL2w/profile-displayphoto-shrink_800_800/0/1673020966867?e=1682553600&v=beta&t=TxhI4xPC6atXg6w774KIrhlY2OXhrzfCt3zemj1qGpU)
 ##### Feito com ❤ por Angela Silva ❤
 
 ## Feedback
