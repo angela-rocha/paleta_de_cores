@@ -21,16 +21,11 @@ Acesse aqui: **https://[angela-silva].github.io/paletadecores/**
 
 ---
 
-## 🖼️ Preview
-> (Opcional) Adicione um print do projeto aqui  
-> `docs/preview.png`
-
----
-
-## 🚀 Tecnologias
-- HTML5  
-- CSS3 (Grid, responsividade)  
-- JavaScript (manipulação de DOM, clipboard API)
+## 🔧 Tecnologia utilizada
+* ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+* ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ---
 
@@ -39,4 +34,21 @@ color-palette-generator/
 ├─ index.html
 ├─ style.css
 └─ script.js
+
+---
+
+## [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## Autora
+
+![imagem Angela Silva](https://media.licdn.com/dms/image/D4D03AQGzK8Y4s4kL2w/profile-displayphoto-shrink_800_800/0/1673020966867?e=1682553600&v=beta&t=TxhI4xPC6atXg6w774KIrhlY2OXhrzfCt3zemj1qGpU)
+##### Feito com ❤ por Angela Silva ❤
+
+## Feedback
+
+### Se você tiver algum feedback, por gentileza, entre em contato: 
+
+### angela.devfrontend@gmail.com
 
