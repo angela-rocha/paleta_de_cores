@@ -3,7 +3,10 @@ Projetinho para geração de paleta de cores.
 
 ## Preview 
 
-<img width="1024" height="720" alt="preview" src="https://github.com/user-attachments/assets/bb73c06f-7d68-47fb-8d99-dce6d70ed450" />
+<img width="1024" height="720" alt="Gerador de Paleta de Cores - Google Chrome 31_08_2025 12_49_20" src="https://github.com/user-attachments/assets/ff51c2cf-0e66-4be1-9396-8d43d262a4a7" />
+
+<img width="1024" height="720" alt="Gerador de Paleta de Cores - Google Chrome 31_08_2025 12_49_27" src="https://github.com/user-attachments/assets/28a9af9c-3a6c-455b-bb0c-ddbdf2c5d2dc" />
+
 
 # 🎨 Gerador de Paleta de Cores
 
