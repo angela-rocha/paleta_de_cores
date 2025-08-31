@@ -1,9 +1,9 @@
 # paletadecores
 Projetinho para geração de paleta de cores.
 
-## 🖼️ Preview
+## Preview 
 
-![Preview do Projeto](geradordepaletadecores/preview.png)
+<img width="1024" height="720" alt="preview" src="https://github.com/user-attachments/assets/bb73c06f-7d68-47fb-8d99-dce6d70ed450" />
 
 # 🎨 Gerador de Paleta de Cores
 
