@@ -3,7 +3,7 @@ Projetinho para geração de paleta de cores.
 
 ## 🖼️ Preview
 
-![Preview do Projeto](preview.png)
+![Preview do Projeto](geradordepaletadecores/preview.png)
 
 # 🎨 Gerador de Paleta de Cores
 
