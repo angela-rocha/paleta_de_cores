@@ -15,7 +15,7 @@ Feito com **HTML**, **CSS** e **JavaScript** puro — perfeito para portfólio e
 ---
 
 ## 🔗 Demo
-Acesse aqui: https://angela-silva.github.io/paletadecores/ 
+Acesse aqui: https://angela-silva.github.io/paleta_de_cores/ 
 
 ---
 
