@@ -1,4 +1,4 @@
-# paletadecores
+## paletadecores
 Projeto para geração de paleta de cores.
 
 ## Preview 
@@ -7,7 +7,7 @@ Projeto para geração de paleta de cores.
 
 
 
-# 🎨 Gerador de Paleta de Cores
+## 🎨 Gerador de Paleta de Cores
 
 Um app simples e responsivo que **gera paletas de cores aleatórias** e permite **copiar o código HEX** com um clique.  
 Feito com **HTML**, **CSS** e **JavaScript** puro — perfeito para portfólio e estudo de DOM, UI e interações.
