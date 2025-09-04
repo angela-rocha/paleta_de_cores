@@ -1,5 +1,5 @@
 # paletadecores
-Projetinho para geração de paleta de cores.
+Projeto para geração de paleta de cores.
 
 ## Preview 
 
