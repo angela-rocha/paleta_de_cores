@@ -34,14 +34,6 @@ Feito com **HTML**, **CSS** e **JavaScript** puro — perfeito para portfólio e
 
 ---
 
-## 📦 Estrutura do Projeto
-color-palette-generator/
-├─ index.html
-├─ style.css
-└─ script.js
-
----
-
 ## [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
 
 ---
