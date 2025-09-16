@@ -1,5 +1,5 @@
 ## Paleta de Cores 
-Projeto para geração de paleta de cores.
+Projeto de geração de paleta de cores para treinar css.
 
 ## Preview 
 
