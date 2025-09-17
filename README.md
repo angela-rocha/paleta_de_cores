@@ -1,7 +1,7 @@
 ## Paleta de Cores 
 Projeto de geração de paleta de cores para treinar css.
 
-## Preview 
+## Prévia
 
 <img width="1024" height="720" alt="Gerador de Paleta de Cores - Google Chrome 31_08_2025 12_50_00" src="https://github.com/user-attachments/assets/998a5fe7-b988-4a6e-a84f-b532622f5827" />
 
