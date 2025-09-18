@@ -13,7 +13,7 @@ Feito com **HTML**, **CSS** e **JavaScript** puro — perfeito para portfólio e
 
 ---
 
-## 🔗 Demo
+## 🔗 Demonstração 
 [Acesse aqui](https://angela-silva.github.io/paleta_de_cores/)
 
 ---
