@@ -14,7 +14,7 @@ Feito com **HTML**, **CSS** e **JavaScript** puro — perfeito para portfólio e
 ---
 
 ## 🔗 Demonstração 
-[Acesse aqui](https://angela-silva.github.io/paleta_de_cores/)
+[Acesse aqui](https://angela-rocha.github.io/paleta_de_cores/)
 
 ---
 
