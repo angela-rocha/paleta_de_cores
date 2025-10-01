@@ -32,7 +32,7 @@ Feito com **HTML**, **CSS** e **JavaScript** puro — perfeito para portfólio e
 
 ## 👩‍💻 Autora
 
-##### Feito com ❤ por Angela Silva ❤
+## Feito com ❤ por Angela Silva ❤
 
 ## Feedback
 
