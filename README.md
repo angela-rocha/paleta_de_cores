@@ -1,5 +1,5 @@
 ## Paleta de Cores 
-Projeto de geração de paleta de cores para treinar css e javascript 
+Projeto de geração de paleta de cores para treinar css e javascript.
 
 ## Prévia
 
